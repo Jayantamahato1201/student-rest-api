@@ -1,0 +1,6 @@
+{
+  "name": "Student REST API",
+  "description": "Clean and practical Node.js and Express.js REST API for Student management with MongoDB Mongoose integration and interactive API client.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
